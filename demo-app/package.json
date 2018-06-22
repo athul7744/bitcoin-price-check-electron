@@ -1,0 +1,14 @@
+{
+  "name": "demo-app",
+  "version": "0.0.1",
+  "description": "DEmo ELectron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Athul",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
